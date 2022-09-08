@@ -20,9 +20,14 @@ section {
 }
 
 
-
 footer {
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+@media screen and (max-width: 420px) {
+    section {
+        width: 80%;
+    }
 }
