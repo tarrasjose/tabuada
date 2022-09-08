@@ -30,4 +30,8 @@ footer {
     section {
         width: 80%;
     }
+
+    input {
+        width: 30%;
+    }
 }
