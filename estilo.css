@@ -13,7 +13,7 @@ section {
     background: white;
     border-radius: 10px;
     padding: 15px;
-    width: 500px;
+    max-width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.505);
     text-align: center;
@@ -25,6 +25,9 @@ footer {
     font-style: italic;
 }
 
+
+
+
 @media screen and (max-width: 420px) {
     section {
         width: 80%;
@@ -33,4 +36,5 @@ footer {
     input {
         width: 50%;
     }
+    
 }
