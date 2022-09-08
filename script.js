@@ -14,7 +14,6 @@ function gerarTabuada() {
             item.text= `${n} x ${c} = ${n*c}`
             tab.appendChild(item)
         }
-        
     }
 }
 
