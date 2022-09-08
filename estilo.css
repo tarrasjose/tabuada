@@ -32,10 +32,19 @@ footer {
 @media screen and (max-width: 420px) {
     section {
         width: 80%;
+        height: 30em;
+    }
+
+    option {
+        width: 100%;
     }
 
     input {
         width: 30%;
+    }
+
+    .resultado {
+        height: 10em;
     }
 
 
